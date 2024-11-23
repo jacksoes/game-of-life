@@ -15,7 +15,7 @@ const MainPage = () => {
       </div>
 
       <div className="w-100 h-50 d-flex align-items-center flex-column">
-        <Button variant="success" aria-label="Start button">
+        <Button variant="success" aria-label="Start button" className="mb-3"> 
           Get Started
         </Button>
         <DecorativeGrid />
